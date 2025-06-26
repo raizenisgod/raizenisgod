@@ -7,7 +7,7 @@
 
 ---
 
-![Discord](https://discord.c99.nl/widget/theme-4/355473219450437642.png)
+[![Discord Profilim](https://cdn.discordapp.com/avatars/355473219450437642/AvatarHash.png)](https://discord.com/users/355473219450437642)
 
 ---
 
