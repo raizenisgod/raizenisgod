@@ -10,7 +10,7 @@
 <div align="center">
 
   <!-- Banner -->
-  <img src="https://cdn.discordapp.com/banners/123456789012345678/1139cdadf663acd3dc537b382f12681a-1.png?size=600" alt="Discord Banner" style="width:100%;max-width:600px;border-radius:16px 16px 0 0;">
+  <img src="https://cdn.discordapp.com/banners/123456789012345678/96e2608d3a1db59168ab831fb4894a6a.png?size=600" alt="Discord Banner" style="width:100%;max-width:600px;border-radius:16px 16px 0 0;">
 
   <!-- Profil Kartı -->
   <div style="background:#23272a;padding:24px 32px;border-radius:0 0 16px 16px;box-shadow:0 4px 24px #0004;max-width:600px;margin-top:-4px;">
