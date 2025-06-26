@@ -7,7 +7,7 @@
 
 ---
 
-[![Discord Profilim](https://cdn.discordapp.com/avatars/355473219450437642/AvatarHash.png)](https://discord.com/users/355473219450437642)
+[![Discord Profilim](https://cdn.discordapp.com/avatars/355473219450437642/634ca5f51a9eb95daa9de7b5ef6fa2fd.png)](https://discord.com/users/355473219450437642)
 
 ---
 
