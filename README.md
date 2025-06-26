@@ -12,7 +12,7 @@
     <img src="https://cdn.discordapp.com/avatars/355473219450437642/634ca5f51a9eb95daa9de7b5ef6fa2fd.png?size=256" width="100" style="border-radius:50%">
   </a>
   <br>
-  <b>rizeliedition</b>
+  <b>7x666</b>
   <br>
   <i>değişmişsin. nasıl değişmişim?</i>
   <br><br>
