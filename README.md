@@ -21,8 +21,6 @@
         <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/html5.svg" width="28" title="HTML5">
         <!-- İstediğin kadar rozet ekleyebilirsin -->
         <br><br>
-        <a href="https://discord.com/users/355473219450437642" style="color: #5865f2; text-decoration: none; font-weight: bold;" target="_blank">
-          Discord Profilim
         </a>
       </td>
     </tr>
