@@ -20,4 +20,4 @@
 ## 🌐 Connect With Me
 
 - 🎧 Discord: `7x666`
-- 💻 GitHub: [@bizsizibulurzz](https://github.com/bizsizibulurzz)
+- 💻 GitHub: [@bizsizibulurzz](https://github.com/raizenisgod)
