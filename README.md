@@ -7,7 +7,7 @@
 
 ---
 
-![Discord Presence](https://lanyard.cnrad.dev/api/355473219450437642?theme=dark&bg=00000000&idleMessage=Idling...)
+[![Discord Presence](https://img.shields.io/badge/Discord-7x666%20%7C%20Click%20to%20add-5865F2?style=for-the-badge&logo=discord)]
 
 ---
 
