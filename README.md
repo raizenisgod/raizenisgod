@@ -7,7 +7,7 @@
 
 ---
 
-![Discord Presence](https://lanyard.cnrad.dev/api/355473219450437642?theme=dark&bg=00000000&idleMessage=Idling...)
+[Discord Profilim](https://discord.com/users/355473219450437642)
 
 ---
 
