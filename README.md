@@ -12,7 +12,7 @@
     <tr>
       <td style="padding: 24px 32px; text-align: center;">
         <img src="https://cdn.discordapp.com/avatars/355473219450437642/634ca5f51a9eb95daa9de7b5ef6fa2fd.png?size=128" width="96" style="border-radius: 50%; border: 2px solid #5865f2;">
-        <h2 style="margin-bottom: 0;">rizeliedition</h2>
+        <h2 style="margin-bottom: 0;">7x666</h2>
         <p style="margin-top: 4px; color: #b9bbbe;">değişmişsin. nasıl değişmişim?</p>
         <br>
         <!-- Rozetler -->
