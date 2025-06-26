@@ -7,33 +7,37 @@
 
 ---
 
-<div align="center">
+<p align="center">
+  <!-- Banner -->
+  <img src="https://cdn.discordapp.com/banners/355473219450437642/96e2608d3a1db59168ab831fb4894a6a.png?size=600" alt="Banner" width="500" style="border-radius: 18px;">
 
-  <!-- Banner ve Profil Fotoğrafı Entegre -->
-  <div style="position: relative; display: inline-block; width: 420px;">
-    <img src="https://cdn.discordapp.com/banners/355473219450437642/96e2608d3a1db59168ab831fb4894a6a.png?size=600" alt="Discord Banner" style="width: 420px; height: 140px; border-radius: 18px 18px 0 0; object-fit: cover;">
+  <!-- Profil Fotoğrafı ve Çerçeve -->
+  <span style="position: relative; display: inline-block; margin-top: -60px;">
     <img src="https://cdn.discordapp.com/avatars/355473219450437642/634ca5f51a9eb95daa9de7b5ef6fa2fd.png?size=128"
          alt="Avatar"
-         style="width: 96px; height: 96px; border-radius: 50%; border: 4px solid #23272a; position: absolute; left: 50%; transform: translateX(-50%); bottom: -48px; background: #23272a;">
-  </div>
+         width="96"
+         style="border-radius: 50%; border: 4px solid #fff; position: absolute; left: 20px; top: -48px; box-shadow: 0 0 0 4px #f7d51d;">
+    <!-- Emoji veya rozet eklemek için örnek -->
+    <img src="https://em-content.zobj.net/source/microsoft-teams/363/sparkles_2728.png"
+         alt="rozet"
+         width="32"
+         style="position: absolute; left: 0; top: -60px;">
+  </span>
+</p>
 
-  <!-- Profil Kartı -->
-  <div style="background:#23272a;padding:64px 32px 24px 32px;border-radius:0 0 18px 18px;box-shadow:0 4px 24px #0004;max-width:420px;margin-top:-8px;">
-    <h2 style="margin-bottom:0;color:#fff;">rizeliedition</h2>
-    <p style="margin-top:4px;color:#b9bbbe;">değişmişsin. nasıl değişmişim?</p>
-    <br>
-    <!-- Rozetler -->
-    <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/discord.svg" width="28" title="Discord">
-    <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/github.svg" width="28" title="GitHub">
-    <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/html5.svg" width="28" title="HTML5">
-    <!-- İstediğin kadar rozet ekle -->
-    <br><br>
-    <a href="https://discord.com/users/355473219450437642" style="color:#5865f2;text-decoration:none;font-weight:bold;" target="_blank">
-      Discord Profilim
-    </a>
-  </div>
-
-</div>
+<p align="center">
+  <b>7x666</b><br>
+  <i>değişmişsin. nasıl değişmişim?</i>
+  <br><br>
+  <!-- Rozetler -->
+  <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/discord.svg" width="24" title="Discord">
+  <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/github.svg" width="24" title="GitHub">
+  <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/html5.svg" width="24" title="HTML5">
+  <br><br>
+  <a href="https://discord.com/users/355473219450437642" style="color:#5865f2;text-decoration:none;font-weight:bold;" target="_blank">
+    Discord Profilim
+  </a>
+</p>
 
 ---
 
