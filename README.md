@@ -6,6 +6,7 @@
 📫 You can reach me via [Discord](https://discord.com/users/355473219450437642)
 
 ---
+
 <div align="center">
   <table style="border-radius: 12px; border: 1px solid #2f3136; background: #23272a; color: #fff; box-shadow: 0 4px 24px #0004;">
     <tr>
@@ -14,6 +15,7 @@
         <h2 style="margin-bottom: 0;">7x666</h2>
         <p style="margin-top: 4px; color: #b9bbbe;">değişmişsin. nasıl değişmişim?</p>
         <br>
+        
 ---
 
 ## 🏆 GitHub Trophies
