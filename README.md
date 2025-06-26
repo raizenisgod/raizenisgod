@@ -15,11 +15,6 @@
         <h2 style="margin-bottom: 0;">7x666</h2>
         <p style="margin-top: 4px; color: #b9bbbe;">değişmişsin. nasıl değişmişim?</p>
         <br>
-        <!-- Rozetler -->
-        <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/discord.svg" width="28" title="Discord">
-        <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/github.svg" width="28" title="GitHub">
-        <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/html5.svg" width="28" title="HTML5">
-        <!-- İstediğin kadar rozet ekleyebilirsin -->
         <br><br>
         </a>
       </td>
