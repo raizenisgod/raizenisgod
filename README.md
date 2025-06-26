@@ -7,7 +7,7 @@
 
 ---
 
-![Discord](https://discord.c99.nl/widget/theme-2/355473219450437642.png)
+![Discord](https://discord.c99.nl/widget/theme-4/355473219450437642.png)
 
 ---
 
