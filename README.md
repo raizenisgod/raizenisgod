@@ -7,25 +7,28 @@
 
 ---
 
-<p align="center">
-  <a href="https://discord.com/users/123456789012345678" target="_blank">
-    <img src="https://cdn.discordapp.com/avatars/355473219450437642/634ca5f51a9eb95daa9de7b5ef6fa2fd.png?size=256" width="100" style="border-radius:50%">
-  </a>
-  <br>
-  <b>7x666</b>
-  <br>
-  <i>değişmişsin. nasıl değişmişim?</i>
-  <br><br>
-  <!-- Rozetler için örnek ikonlar -->
-  <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/discord.svg" width="24" title="Discord">
-  <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/github.svg" width="24" title="GitHub">
-  <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/html5.svg" width="24" title="HTML5">
-  <!-- İstediğin kadar rozet ekleyebilirsin -->
-  <br><br>
-  <a href="https://discord.com/users/355473219450437642" target="_blank">
-    Discord Profilim
-  </a>
-</p>
+<div align="center">
+  <table style="border-radius: 12px; border: 1px solid #2f3136; background: #23272a; color: #fff; box-shadow: 0 4px 24px #0004;">
+    <tr>
+      <td style="padding: 24px 32px; text-align: center;">
+        <img src="https://cdn.discordapp.com/avatars/355473219450437642/634ca5f51a9eb95daa9de7b5ef6fa2fd.png?size=128" width="96" style="border-radius: 50%; border: 2px solid #5865f2;">
+        <h2 style="margin-bottom: 0;">7x666</h2>
+        <p style="margin-top: 4px; color: #b9bbbe;">değişmişsin. nasıl değişmişim?</p>
+        <br>
+        <!-- Rozetler -->
+        <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/discord.svg" width="28" title="Discord">
+        <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/github.svg" width="28" title="GitHub">
+        <img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/html5.svg" width="28" title="HTML5">
+        <!-- İstediğin kadar rozet ekleyebilirsin -->
+        <br><br>
+        <a href="https://discord.com/users/355473219450437642" style="color: #5865f2; text-decoration: none; font-weight: bold;" target="_blank">
+          Discord Profilim
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ---
 
 ## 🏆 GitHub Trophies
