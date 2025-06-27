@@ -19,12 +19,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-[![](https://github-profile-trophy.vercel.app/?username=bizsizibulurzz&theme=darkhub&no-frame=true&no-bg=true&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## 🌐 Connect With Me
 
 - 🎧 Discord: `7x666`
